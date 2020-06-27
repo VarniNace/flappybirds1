@@ -16,7 +16,7 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`, SpriteKind.Player)
+`, 0 % 1)
 })
 let Slika: Sprite = null
 Slika = sprites.create(img`

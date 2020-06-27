@@ -1,3 +1,6 @@
+controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
+	
+})
 let Slika = sprites.create(img`
 . . . . . . . . . . . 6 6 6 6 6 
 . . . . . . . . . 6 6 7 7 7 7 8 
